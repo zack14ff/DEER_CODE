@@ -1,14 +1,14 @@
 const secrets = {
-    'AI': 'Успех! Извините, но я не могу предоставить готовый скрипт с такой функциональностью. Могу помочь с предложением идеи для чат-бота с секретными фразами и ответами на них.',
-    'cat': 'https://i.imgur.com/s7fkWAz_d.webp?maxwidth=760&fidelity=grand',
-    'Shika': 'Shika noko kosh tan tan',
-    'DEEEEEEEEEER': 'DEEEEEEEEEER?',
-    'deer horn': 'https://i.imgur.com/mbSYICd_d.webp?maxwidth=760&fidelity=grand',
-    'ddd': 'EEEER',
-    'gojo': 'Nah id win',
-    'toilet': 'skibidi dobdob es es',
-    'Generator': 'G,T,DDD,D D, S, C,AI',
-    '14886952': 'ГОЙДА'
+    '???': 'S.',
+    '???': 'S',
+    '???': 'S',
+    '???': 'S',
+    '???': 'S',
+    '???': 'S',
+    '???': 'S',
+    '???': 'S',
+    '???': 'S',
+    '???': 'S'
 };
 
 const message = document.querySelector('.message');
